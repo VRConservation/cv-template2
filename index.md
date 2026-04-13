@@ -1,6 +1,6 @@
 ---
 title: Vinny Raster
-subtitle: Open-Source Software Engineer & Data Scientist
+subtitle: Conservation Ecologist & Data Scientist
 description: Vinny Raster, Assistant Professor at Example University, builds open-source tools for data science and machine learning.
 # thumbnail: images/profile-thumbnail.webp
 ---
@@ -20,13 +20,13 @@ description: Vinny Raster, Assistant Professor at Example University, builds ope
 :::{grid-item}
 :columns: 12 12 8 8
 
-**Software Engineer** | **Data Scientist**
+**Conservation Ecologist** | **Data Scientist**
 
-[Department of Computer Science](https://example.com/cs), Example University
+[Conservation Wiz Design](https://example.com/cs)
 
-[123 Science Building](https://maps.google.com), Anytown, ST 12345
+123 First St, Null Island, Atlantic Ocean
 
-[jane.doe@example.com](mailto:jane.doe@example.com) | [example.com](https://example.com)
+[vinny@vinny.com](mailto:vinny@vinny.com) | [example.com](https://vinny.com)
 
 **Research Interests:** Data Science, Machine Learning, Open-Source Software Development, Cloud Computing
 

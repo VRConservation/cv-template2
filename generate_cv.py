@@ -392,7 +392,7 @@ def gen_books(research):
 
 
 def gen_publications(research):
-    """Generate Refereed Publications section from research.md."""
+    """Generate Publications section from research.md."""
     section = extract_section(research, "## Refereed Publications")
     if not section:
         return ""
@@ -403,7 +403,7 @@ def gen_publications(research):
         summary = escape_typst(m.group())
 
     dropdowns = parse_dropdowns(section)
-    lines = [f"= Refereed Publications\n\n{summary}"]
+    lines = [f"= Publications\n\n{summary}"]
 
     for label, content in dropdowns:
         entries = split_entries(content)
@@ -653,8 +653,6 @@ def main():
         gen_education(about),
         gen_leadership_volunteering(about),
         gen_publications(publications),
-        gen_software(portfolio),
-        gen_services(services),
     ]
 
     output = "\n\n".join(s for s in sections if s)

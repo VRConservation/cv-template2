@@ -1,9 +1,7 @@
 # MyST CV Template
-
-A reusable template for building free hosted practitioner CV websites with [MyST Markdown](https://mystmd.org/), automatic CV PDF generation via [Typst](https://typst.app/), blog support with RSS feeds, and automated deployment via GitHub Actions. Forked from the excellent academic myst-cv [template](https://github.com/giswqs/my-cv) created by GISWQS.
+A reusable template for building free hosted practitioner CV websites with [MyST Markdown](https://mystmd.org/), automatic CV PDF generation via [Typst](https://typst.app/), blog support with RSS feeds, and automated deployment via GitHub Actions. Adapted from the excellent academic-oriented cv [template](https://github.com/giswqs/my-cv) created by GISWQS.
 
 ## Quick Start
-
 1. Click **Use this template** on GitHub to create a new repository
 2. Install typst on your pc then run `pip install -r requirements.txt` after creating a virtual env in your terminal
 3. Update `myst.yml` with your site title, description, and table of contents
@@ -12,10 +10,10 @@ A reusable template for building free hosted practitioner CV websites with [MyST
 6. Update `generate_rss.py` with your site URL and metadata
 7. On github, go to the repo/Settings/Pages/Source and change "Deploy from a Branch" to "Github Actions"
 7. Push to GitHub to trigger automated builds
-8. If the build fails, go back to the online repo, click actions
+8. If the build fails, go to the online repo, click actions, click one of the workflow runs, then select "Re-run all jobs" in the upper right. Check the main repository for the green check mark next to your github username.
+9. Click the about gear icon, and select "Use your Github Pages Website" for quick deployment or use a custom domain by changing settings under pages.
 
 ## Features
-
 - **MyST Markdown** source format with Jupyter notebook integration
 - **Automatic CV PDF generation** from website content using Typst and [modern-cv](https://typst.app/universe/package/modern-cv/)
 - **Blog** with RSS and Atom feed generation
@@ -84,12 +82,10 @@ Edit the `gen_preamble()` function in `generate_cv.py`:
 - `custom`: social media and academic profile links
 
 ### Adding Pages
-
 1. Create a new `.md` file in `pages/`
 2. Add the file to `project.toc` in `myst.yml`
 
 ### Adding Blog Posts
-
 1. Create a new `.md` file in `blog/` with frontmatter (title, date, authors, description, tags)
 2. Add a card entry in `pages/blog.md` linking to the new post
 

@@ -7,11 +7,11 @@ description: Contact information for collaboration, speaking invitations, or que
 
 Feel free to reach out for collaboration, speaking invitations, or questions about open-source software.
 
-**Email:** [jane.doe@example.com](mailto:jane.doe@example.com)
+**Email:** [vinny@vinny.com](mailto:vinny@vinny.com)
 
 **Phone:** +1-234-567-8901
 
-**Office:** [123 Science Building](https://maps.google.com), Example University, Anytown, ST 12345
+**Office:** 123 First St, Null Island, Atlantic Ocean
 
 ## Connect
 

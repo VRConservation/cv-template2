@@ -21,7 +21,7 @@ from feedgen.feed import FeedGenerator
 SITE_URL = "https://example.com"
 SITE_TITLE = "Vinny Raster's Blog"
 SITE_SUBTITLE = "Thoughts on data science, open-source software, and teaching."
-AUTHOR = {"name": "Vinny Raster", "email": "jane.doe@example.com"}
+AUTHOR = {"name": "Vinny Raster", "email": "vinny@vinny.com"}
 LANGUAGE = "en"
 
 FRONTMATTER_RE = re.compile(r"^---\s*\n(.*?)\n---\s*\n(.*)$", re.DOTALL)
