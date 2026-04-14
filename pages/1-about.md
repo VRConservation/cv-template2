@@ -3,9 +3,8 @@ title: About
 description: Biography, education, and academic appointments of Vinny Raster.
 keywords:
   - About
-  - Biography
+  - Experience
   - Education
-  - Appointments
 ---
 
 # About
@@ -41,4 +40,3 @@ Insert bio here.
 | 2023--present | XYZ Board Chair |
 | 2021-2023     | Basket Weavers for Kids |
 | 2010-2018     | Board Chair, Doctors in Career Knowledge Situations |
-

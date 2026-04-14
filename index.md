@@ -47,31 +47,31 @@ description: Vinny Raster, Assistant Professor at Example University, builds ope
 ::::{grid} 2 2 4 4
 
 :::{card}
-:link: https://mystmd.org
-![mystmd](pages/images/myst.webp)
+:link: https://healthyeldorado.org/
+![HELP](pages/images/help_logo.png)
 +++
-**MyST**
+**HELP**
 :::
 
 :::{card}
-:link: https://jupyterbook.org
-![jupyter-book](pages/images/jupyter-book.webp)
+:link: https://northcoastresourcepartnership.org/
+![NCRP](pages/images/ncrp.jpeg)
 +++
-**Jupyter Book**
+**NCRP**
 :::
 
 :::{card}
-:link: https://jupyter.org
-![jupyter](pages/images/jupyter.webp)
+:link: https://wildfiretaskforce.org/
+![CWFRTF](pages/images/CWFRTF_logo.webp)
 +++
-**Jupyter**
+**CWFRTF**
 :::
 
 :::{card}
-:link: https://python.org
-![python](pages/images/python.webp)
+:link: https://forestbusinessalliance.org/
+![python](pages/images/fba-square.png)
 +++
-**Python**
+**Forest Business Alliance**
 :::
 
 ::::

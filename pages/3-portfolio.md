@@ -18,38 +18,38 @@ Vinny is the creator and maintainer of several open-source software packages for
 ::::{grid} 2 2 4 4
 
 :::{card}
-:link: https://mystmd.org
-![mystmd](images/myst.webp)
+:link: https://healthyeldorado.org/
+![mystmd](images/help_logo.png)
 +++
-**MyST**
+**HELP**
 :::
 
 :::{card}
-:link: https://jupyterbook.org
-![jupyter-book](images/jupyter-book.webp)
+:link: https://wildfiretaskforce.org/
+![jupyter-book](images/CWFRTF_logo.webp)
 +++
-**Jupyter Book**
+**CWFRTF**
 :::
 
 :::{card}
-:link: https://jupyter.org
-![jupyter](images/jupyter.webp)
+:link: https://northcoastresourcepartnership.org
+![jupyter](images/ncrp.jpeg)
 +++
-**Jupyter**
+**NCRP**
 :::
 
 :::{card}
-:link: https://python.org
-![python](images/python.webp)
+:link: https://forestbusinessalliance.org/
+![python](images/fba-square.png)
 +++
-**Python**
+**Forest Business Alliance**
 :::
 
 ::::
 
 ---
 
-## Python Packages
+## Projects
 
 ::::{grid} 1 2 3 3
 
@@ -71,19 +71,3 @@ Cloud computing tools for large-scale data processing
 ::::
 
 ---
-
-## Web Apps
-
-::::{grid} 1 2 3 3
-
-:::{card} data-dashboard
-:link: https://github.com/username/data-dashboard
-Interactive data visualization dashboard
-:::
-
-:::{card} ml-explorer
-:link: https://github.com/username/ml-explorer
-Machine learning model exploration tool
-:::
-
-::::
