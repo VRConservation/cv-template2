@@ -49,7 +49,7 @@ Vinny is the creator and maintainer of several open-source software packages for
 
 ---
 
-## Projects
+## Detail
 
 ::::{grid} 1 2 3 3
 
