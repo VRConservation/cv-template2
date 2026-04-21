@@ -2,7 +2,7 @@
 A reusable template for building free hosted practitioner CV websites with [MyST Markdown](https://mystmd.org/), automatic CV PDF generation via [Typst](https://typst.app/), blog support with RSS feeds, and automated deployment via GitHub Actions. Adapted from the excellent academic-oriented cv [template](https://github.com/giswqs/my-cv) created by GISWQS.
 
 ## Quick Start
-1. Click **Use this template** on GitHub to create a new repository
+1. Click **Use this template** on GitHub to create a new repository. Copy the repo url then git clone url into the local folder of your choice. Open the folder in your ide.
 2. Install typst on your pc then run `pip install -r requirements.txt` after creating a virtual env in your terminal
 3. Update `myst.yml` with your site title, description, and table of contents
 4. Replace placeholder content in `pages/` with your own
