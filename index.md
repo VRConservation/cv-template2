@@ -22,20 +22,17 @@ description: Vinny Raster, Assistant Professor at Example University, builds ope
 
 **Conservation Ecologist** | **Data Scientist**
 
-[Conservation Wiz Design](https://example.com/cs)
+[Conservation Wiz Design](https://example.com)
 
 123 First St, Null Island, Atlantic Ocean
 
 [vinny@vinny.com](mailto:vinny@vinny.com) | [example.com](https://vinny.com)
 
-**Research Interests:** Data Science, Machine Learning, Open-Source Software Development, Cloud Computing
+**Research Interests:** Forest Ecology, Machine Learning, Open-Source Software, Cloud Native Geospatial
 
 [CV (PDF)](cv.pdf) |
-[Google Scholar](https://scholar.google.com) |
-[ORCID](https://orcid.org/0000-0000-0000-0000) |
 [LinkedIn](https://www.linkedin.com/in/username) |
 [GitHub](https://github.com/username) |
-[Twitter](https://twitter.com/username)
 
 :::
 ::::

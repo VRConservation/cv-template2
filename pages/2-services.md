@@ -10,7 +10,7 @@ keywords:
 
 # Services
 
-Dr. Doe serves the academic community through editorial roles, proposal review, conference organization, and institutional leadership.
+
 
 ## Professional Services
 
